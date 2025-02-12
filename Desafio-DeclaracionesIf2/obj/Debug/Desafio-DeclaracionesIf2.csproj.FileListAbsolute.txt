@@ -1,0 +1,7 @@
+C:\Users\Fernando Martin\source\repos\Dia 4\Desafio-DeclaracionesIf2\Desafio-DeclaracionesIf2\bin\Debug\Desafio-DeclaracionesIf2.exe.config
+C:\Users\Fernando Martin\source\repos\Dia 4\Desafio-DeclaracionesIf2\Desafio-DeclaracionesIf2\bin\Debug\Desafio-DeclaracionesIf2.exe
+C:\Users\Fernando Martin\source\repos\Dia 4\Desafio-DeclaracionesIf2\Desafio-DeclaracionesIf2\bin\Debug\Desafio-DeclaracionesIf2.pdb
+C:\Users\Fernando Martin\source\repos\Dia 4\Desafio-DeclaracionesIf2\Desafio-DeclaracionesIf2\obj\Debug\Desafio-DeclaracionesIf2.csproj.AssemblyReference.cache
+C:\Users\Fernando Martin\source\repos\Dia 4\Desafio-DeclaracionesIf2\Desafio-DeclaracionesIf2\obj\Debug\Desafio-DeclaracionesIf2.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Martin\source\repos\Dia 4\Desafio-DeclaracionesIf2\Desafio-DeclaracionesIf2\obj\Debug\Desafio-DeclaracionesIf2.exe
+C:\Users\Fernando Martin\source\repos\Dia 4\Desafio-DeclaracionesIf2\Desafio-DeclaracionesIf2\obj\Debug\Desafio-DeclaracionesIf2.pdb
